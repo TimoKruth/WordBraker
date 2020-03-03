@@ -1,0 +1,9 @@
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/CMakeFiles/Catch_TDD_run.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/test/CMakeFiles/Test_run.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/timo/CLionProjects/Catch_TDD/cmake-build-debug/src/CMakeFiles/Reader_run.dir

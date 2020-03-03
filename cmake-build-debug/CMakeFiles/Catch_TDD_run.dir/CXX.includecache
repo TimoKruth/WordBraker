@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/timo/CLionProjects/Catch_TDD/include/Reader.h
+
+/Users/timo/CLionProjects/Catch_TDD/main.cpp
+iostream
+-
+include/Reader.h
+/Users/timo/CLionProjects/Catch_TDD/include/Reader.h
+
